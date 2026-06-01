@@ -304,25 +304,4 @@ MIT License - Feel free to use for learning and hackathons!
 
 ---
 
-## 🙏 Credits
-
-Built at **Hackathon 2025** with the goal of making the internet safer for everyone.
-
-**Special thanks to:**
-- CERT-IN India
-- Reserve Bank of India (RBI)
-- India Cybercrime Helpline
-- The community for reporting scams
-
----
-
-## 📞 Support & Contact
-
-- **Email**: support@veritas.dev
-- **GitHub**: github.com/veritas
-- **Issues**: Open an issue on GitHub
-- **Feedback**: We'd love to hear from you!
-
----
-
 **Stay safe. Verify carefully. Report scams. Build Veritas stronger.** 🛡️
